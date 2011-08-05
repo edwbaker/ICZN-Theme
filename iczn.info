@@ -1,0 +1,10 @@
+name = ICZN
+description = Theme for International Commission on Zoological Nomenclature
+core = 6.x
+engine = phptemplate
+
+features[] = logo
+features[] = name
+features[] = favicon
+features[] = search
+features[] = breadcrumb
